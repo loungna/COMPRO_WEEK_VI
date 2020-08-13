@@ -1,3 +1,4 @@
 # COMPRO_WEEK_VI
-HomeWork\n
+HomeWork
+
 Learning Python
